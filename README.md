@@ -191,10 +191,12 @@ Through this project, I learned:
 
 ---
 
-
+## Note
 - Dummy data is used for books collection.
 - `node_modules` folder is excluded before submission.
 - The repository contains multiple meaningful commits as required.
 
 ---
 
+## GitHub Link
+https://github.com/parjani/online-library-system
